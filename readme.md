@@ -10,3 +10,6 @@ git push https://github.com/Solarkas/test-git2.git || origin
 [vetka]: git branch
 7. git reset - удаляет файлы из промежуточной области.
 8. git diff - позволяет строки, которые добавляли или удалял
+9. git reset --hard отменяет все изменения проделанные до сохранения
+10. git branch - проверяет все ветки что есть
+git branch name - name: название новой ветки - создание ветки
